@@ -3,13 +3,14 @@
 
 
 #项目结构
+public
+-areas.json
+-大学.json
 universityCollecter
 -spiders
 --spiders.py
 -datafliter.py
 -areas.json
-areas.json
-大学.json
 README.MD
 
 
